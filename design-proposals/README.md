@@ -1,6 +1,14 @@
 # 매스 제안 자료
 
-## 최신 이미지 참고안: D — 계단과 테라스로 이어지는 매스
+## 최신 수정안: E — 두 건물, 하나의 교환하는 길
+
+[E안 설명·프로그램 스터디](E-two-buildings/README.md) · [Rhino 파일](E-two-buildings/E_two_buildings_context.3dm?raw=true) · [전체 ZIP](E-two-buildings/E_two_buildings_package.zip?raw=true)
+
+교수 크리틱 반영: 우체국과 창작소 두 주 매스, 확대된 우체국, 두 건물 내부로 통합한 공유 마켓, 작은 물류 구역.
+
+![E안](E-two-buildings/E_proposal_board.png)
+
+## 이전 이미지 참고안: D — 계단과 테라스로 이어지는 매스
 
 [D안 설명·미리보기](D-terraced-market/README.md) · [Rhino 파일](D-terraced-market/D_terraced_market_context.3dm?raw=true) · [전체 ZIP](D-terraced-market/D_terraced_market_package.zip?raw=true)
 
