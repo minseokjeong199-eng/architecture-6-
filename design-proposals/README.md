@@ -1,6 +1,14 @@
 # 매스 제안 자료
 
-## 최신 수정안: B — 길을 들어 올리고, 가운데를 비우다
+## 최신 이미지 참고안: D — 계단과 테라스로 이어지는 매스
+
+[D안 설명·미리보기](D-terraced-market/README.md) · [Rhino 파일](D-terraced-market/D_terraced_market_context.3dm?raw=true) · [전체 ZIP](D-terraced-market/D_terraced_market_package.zip?raw=true)
+
+두 중정을 가진 하부 우체국, 계단식 창작소와 실내 마켓, 넓은 공공 계단을 원본 대지에 맞춘 제안입니다.
+
+![D안](D-terraced-market/D_proposal_board.png)
+
+## 이전 수정안: B — 길을 들어 올리고, 가운데를 비우다
 
 [**B안 도면·설계 설명·다운로드**](B-courtyard-market/README.md)
 
