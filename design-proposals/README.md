@@ -1,6 +1,14 @@
 # 매스 제안 자료
 
-## 최신 수정안: E — 두 건물, 하나의 교환하는 길
+## 최신 수정안: F — 층고 4m와 계단식 테라스
+
+[F안 설명·미리보기](F-4m-terraced/README.md) · [Rhino 파일](F-4m-terraced/F_4m_terraced_context.3dm?raw=true) · [전체 ZIP](F-4m-terraced/F_4m_terraced_package.zip?raw=true)
+
+우체국·창작소 두 주 매스, 모든 층고 4m, 상층 후퇴와 테라스·중앙 계단을 반영했습니다.
+
+![F안](F-4m-terraced/F_proposal_board.png)
+
+## 이전 수정안: E — 두 건물, 하나의 교환하는 길
 
 [E안 설명·프로그램 스터디](E-two-buildings/README.md) · [Rhino 파일](E-two-buildings/E_two_buildings_context.3dm?raw=true) · [전체 ZIP](E-two-buildings/E_two_buildings_package.zip?raw=true)
 
