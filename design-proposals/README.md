@@ -1,6 +1,14 @@
 # 매스 제안 자료
 
-## 최신 수정안: F — 층고 4m와 계단식 테라스
+## 최신 이미지 재현안: G
+
+[G안 설명·미리보기](G-reference-mass/README.md) · [Rhino 파일](G-reference-mass/G_reference_mass_context.3dm?raw=true) · [전체 ZIP](G-reference-mass/G_reference_mass_package.zip?raw=true)
+
+제공 이미지의 전면 수평 매스·옥상 두 박스·후면 테라스·중앙 캐노피·대계단을 재구성했습니다. 층고 4m. 이미지 형태를 우선한 별도 안으로 이전 약 7,500㎡ 목표 면적과 구분됩니다.
+
+![G안](G-reference-mass/G_mass_only.png)
+
+## 면적 계획 유지안: F — 층고 4m와 계단식 테라스
 
 [F안 설명·미리보기](F-4m-terraced/README.md) · [Rhino 파일](F-4m-terraced/F_4m_terraced_context.3dm?raw=true) · [전체 ZIP](F-4m-terraced/F_4m_terraced_package.zip?raw=true)
 
