@@ -1,6 +1,14 @@
 # 매스 제안 자료
 
-## 최신 크리틱 반영안: H — 건축 내부를 파고드는 공공의 길
+## 최신 수정안: I — 프로그램이 침투하는 아트리움
+
+[I안 변경사항·도면](I-program-atrium/README.md) · [Rhino 모델](I-program-atrium/I_program_atrium_context.3dm?raw=true) · [내부 절개 모델](I-program-atrium/I_program_atrium_cutaway.3dm?raw=true) · [전체 ZIP](I-program-atrium/I_program_atrium_package.zip?raw=true)
+
+첨부 PDF 반영: 공개 제작·마켓·교육·교환 바닥을 계단참에 연결하고 계단을 90° 전환했습니다. 지붕 72㎡ 개방, A3 1:200 실제 절단면, 면적 가산 근거 포함. 신규 레이어의 Proposal 접두사를 제거했습니다.
+
+![I안](I-program-atrium/I_proposal_board.png)
+
+## 이전 크리틱 반영안: H — 건축 내부를 파고드는 공공의 길
 
 [H안 설명·도면](H-carved-atrium/README.md) · [Rhino 통합 모델](H-carved-atrium/H_carved_atrium_context.3dm?raw=true) · [내부 절개 모델](H-carved-atrium/H_carved_atrium_cutaway.3dm?raw=true) · [전체 ZIP](H-carved-atrium/H_carved_atrium_package.zip?raw=true)
 
