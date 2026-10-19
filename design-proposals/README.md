@@ -1,6 +1,14 @@
 # 매스 제안 자료
 
-## 최신 수정안: I — 프로그램이 침투하는 아트리움
+## 최신 수정안: J — ㄴ자 우체국과 ㄱ자 창작소의 맞물림
+
+[J안 변경사항·도면](J-interlocking/README.md) · [Rhino 통합 모델](J-interlocking/J_interlocking_context.3dm?raw=true) · [내부 절개 모델](J-interlocking/J_interlocking_cutaway.3dm?raw=true) · [전체 ZIP](J-interlocking/J_interlocking_package.zip?raw=true)
+
+새 PDF 반영: 우체국 서측 날개 확장, 창작소 상층이 우체국 위로 확장, 중앙 로비 위 횡단 갤러리. 층고 4m, 건폐율 54.02%, 계단 별도 가산 면적비 190.67%. 신규 레이어 접두사 없음.
+
+![J안](J-interlocking/J_proposal_board.png)
+
+## 이전 수정안: I — 프로그램이 침투하는 아트리움
 
 [I안 변경사항·도면](I-program-atrium/README.md) · [Rhino 모델](I-program-atrium/I_program_atrium_context.3dm?raw=true) · [내부 절개 모델](I-program-atrium/I_program_atrium_cutaway.3dm?raw=true) · [전체 ZIP](I-program-atrium/I_program_atrium_package.zip?raw=true)
 
