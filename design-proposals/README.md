@@ -1,6 +1,14 @@
 # 매스 제안 자료
 
-## 최신 이미지 재현안: G
+## 최신 크리틱 반영안: H — 건축 내부를 파고드는 공공의 길
+
+[H안 설명·도면](H-carved-atrium/README.md) · [Rhino 통합 모델](H-carved-atrium/H_carved_atrium_context.3dm?raw=true) · [내부 절개 모델](H-carved-atrium/H_carved_atrium_cutaway.3dm?raw=true) · [전체 ZIP](H-carved-atrium/H_carved_atrium_package.zip?raw=true)
+
+통합 매스 내부에 지붕 있는 아트리움을 절개하고 내부 계단·브리지·갤러리에 창작·교환·우편서비스를 결합했습니다. 기본 층 면적 8,200㎡, 추가 계단참·진입부 포함 약 8,340㎡. 층고 4m, 매입층 면적 공제 없음.
+
+![H안](H-carved-atrium/H_proposal_board.png)
+
+## 이전 이미지 재현안: G
 
 [G안 설명·미리보기](G-reference-mass/README.md) · [Rhino 파일](G-reference-mass/G_reference_mass_context.3dm?raw=true) · [전체 ZIP](G-reference-mass/G_reference_mass_package.zip?raw=true)
 
