@@ -1,6 +1,14 @@
 # 매스 제안 자료
 
-## 최신 수정안: J — ㄴ자 우체국과 ㄱ자 창작소의 맞물림
+## 최신 수정안: K — 지상 8,200㎡ 비율 수정 + Z 3,250mm 상승
+
+[K안 설명·면적 기준](K-rebalanced/README.md) · [Rhino 통합 모델](K-rebalanced/K_rebalanced_context.3dm?raw=true) · [전체 ZIP](K-rebalanced/K_rebalanced_package.zip?raw=true)
+
+지상 우체국 4,000㎡ / 공유 마켓·교육·동선 1,700㎡ / 창작소 2,500㎡. 지하 2,189㎡ 별도. 층고 4m의 상부층 추가 및 제안 건축 전체 3,250mm 상승. 원본 지형·도로 고정, 상승 후 도로 접속 상세 재검토 필요.
+
+![K안](K-rebalanced/K_proposal_board.png)
+
+## 이전 수정안: J — ㄴ자 우체국과 ㄱ자 창작소의 맞물림
 
 [J안 변경사항·도면](J-interlocking/README.md) · [Rhino 통합 모델](J-interlocking/J_interlocking_context.3dm?raw=true) · [내부 절개 모델](J-interlocking/J_interlocking_cutaway.3dm?raw=true) · [전체 ZIP](J-interlocking/J_interlocking_package.zip?raw=true)
 
