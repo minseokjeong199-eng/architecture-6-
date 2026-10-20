@@ -1,0 +1,50 @@
+[
+  {
+    "file": "K_1F_plan.dwg",
+    "entities": 54,
+    "units": "mm",
+    "version": "AC1015 / R2000",
+    "roundtrip_geometry_text_layers": "PASS",
+    "audit_errors": 0
+  },
+  {
+    "file": "K_2F_plan.dwg",
+    "entities": 92,
+    "units": "mm",
+    "version": "AC1015 / R2000",
+    "roundtrip_geometry_text_layers": "PASS",
+    "audit_errors": 0
+  },
+  {
+    "file": "K_3F_plan.dwg",
+    "entities": 64,
+    "units": "mm",
+    "version": "AC1015 / R2000",
+    "roundtrip_geometry_text_layers": "PASS",
+    "audit_errors": 0
+  },
+  {
+    "file": "K_4F_plan.dwg",
+    "entities": 30,
+    "units": "mm",
+    "version": "AC1015 / R2000",
+    "roundtrip_geometry_text_layers": "PASS",
+    "audit_errors": 0
+  },
+  {
+    "file": "K_B1_plan.dwg",
+    "entities": 23,
+    "units": "mm",
+    "version": "AC1015 / R2000",
+    "roundtrip_geometry_text_layers": "PASS",
+    "audit_errors": 0
+  },
+  {
+    "file": "K_all_floorplans.dwg",
+    "entities": 263,
+    "units": "mm",
+    "version": "AC1015 / R2000",
+    "roundtrip_geometry_text_layers": "PASS",
+    "audit_errors": 0
+  }
+]

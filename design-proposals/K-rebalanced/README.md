@@ -1,5 +1,7 @@
 # K안 — 면적 비율 수정 및 매스 상승
 
+**층별 평면도:** [통합 DWG](floorplans/K_all_floorplans.dwg?raw=true) · [개별 DWG·DXF·PDF ZIP](floorplans/K_floorplans_package.zip?raw=true) · [도면 사용 안내](floorplans/README.md)
+
 사용자가 확인한 **지상층 목표 합계 8,200㎡, 지하층 별도** 기준을 적용했습니다. 지상층은 우체국 4,000㎡ / 마켓·교육 및 공용동선 1,700㎡ / 창작소 2,500㎡입니다.
 
 ## 변경
