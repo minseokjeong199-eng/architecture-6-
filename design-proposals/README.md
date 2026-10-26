@@ -1,6 +1,14 @@
 # 매스 제안 자료
 
-## 최신 수정안: K — 지상 8,200㎡ 비율 수정 + Z 3,250mm 상승
+## 최신 수정안: L — 낮은 우체국 기반과 도로에서 시작하는 절개
+
+[L안 설명·면적표](L-terrain-atrium/README.md) · [Rhino 통합 모델](L-terrain-atrium/L_terrain_atrium_context.3dm?raw=true) · [전체 ZIP](L-terrain-atrium/L_terrain_atrium_package.zip?raw=true)
+
+새 PDF 반영: 우체국 83.75%를 1·2층으로 이동, 4층 우체국 제거, 창작소 최상층 후퇴, 상부 도로부터 중앙 아트리움까지 절개. 지상 8,200㎡ 유지, 건폐율 58.01%로 재계산. 바닥·천장 중복 없이 층별 프로그램 솔리드만 생성.
+
+![L안](L-terrain-atrium/L_proposal_board.png)
+
+## 이전 수정안: K — 지상 8,200㎡ 비율 수정 + Z 3,250mm 상승
 
 [K안 설명·면적 기준](K-rebalanced/README.md) · [Rhino 통합 모델](K-rebalanced/K_rebalanced_context.3dm?raw=true) · [전체 ZIP](K-rebalanced/K_rebalanced_package.zip?raw=true)
 
