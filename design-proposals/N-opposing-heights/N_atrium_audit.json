@@ -1,0 +1,10 @@
+{
+  "actual_floor": 324.0,
+  "clear_gathering": 150.0,
+  "covered_by_upper_floors_or_canopy": 144.0,
+  "open_to_sky": 180.0,
+  "seating_projection": 24,
+  "stairs_inside_court": 0,
+  "second_floor_landing_in_court": 72.0,
+  "third_floor_bridge_in_court": 72.0
+}

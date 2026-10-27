@@ -1,0 +1,25 @@
+{
+  "source_geometry_preserved": 227,
+  "new_saved_profiles_verified": 92,
+  "stair_treads_with_2m_headroom_from_programme_solids": 54,
+  "post_colour": "177,105,72",
+  "lab_colour": "59,110,154",
+  "above_ground_programme": 8200,
+  "above_ground_floor_union": 8107,
+  "basement_floor": 2209.0,
+  "low_road_entry": 5.132745709282537,
+  "coverage": 59.63446586480621,
+  "area_ratio_excluding_basement": 184.4504470335692,
+  "area_ratio_if_basement_also_counted": 234.25505370890346,
+  "court": {
+    "actual_floor": 324.0,
+    "clear_gathering": 150.0,
+    "covered_by_upper_floors_or_canopy": 144.0,
+    "open_to_sky": 180.0,
+    "seating_projection": 24,
+    "stairs_inside_court": 0,
+    "second_floor_landing_in_court": 72.0,
+    "third_floor_bridge_in_court": 72.0
+  },
+  "floor_ceiling_duplicates": false
+}

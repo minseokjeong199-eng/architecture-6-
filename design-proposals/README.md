@@ -1,6 +1,14 @@
 # 매스 제안 자료
 
-## 최신 수정안: L — 낮은 우체국 기반과 도로에서 시작하는 절개
+## 최신 수정안: N — 철도·도로 측 높이 방향 조정
+
+[설명·면적표](N-opposing-heights/README.md) · [Rhino 통합 모델](N-opposing-heights/N_public_street_context.3dm?raw=true) · [전체 ZIP](N-opposing-heights/N_mass_package.zip?raw=true)
+
+코어 삭제. 상·하부 도로 기준 높이에 진입부 접속. 철도 측은 아래쪽, 도로 측은 위쪽으로 높아지는 매스. 층고 4m와 지상 프로그램 8,200㎡ 유지. 우체국 갈색 / 창작소 파랑.
+
+![수정 모델](N-opposing-heights/N_mass_preview.png)
+
+## 이전 수정안: L — 낮은 우체국 기반과 도로에서 시작하는 절개
 
 [L안 설명·면적표](L-terrain-atrium/README.md) · [Rhino 통합 모델](L-terrain-atrium/L_terrain_atrium_context.3dm?raw=true) · [전체 ZIP](L-terrain-atrium/L_terrain_atrium_package.zip?raw=true)
 
