@@ -1,0 +1,107 @@
+{
+  "source": "/workspace/design-studies/proposal-R/R_reference_mass_only.3dm",
+  "sha256": "28509b9069c42892f12a2c61fdb919fa0e9c90c3a47dee31008615dc62334927",
+  "solid_count": 114,
+  "sheet_count": 11,
+  "frames": [
+    {
+      "title": "P-01  LEVEL L00  /  Z +35.75 m",
+      "dx": 0,
+      "dy": 0
+    },
+    {
+      "title": "P-02  LEVEL L01  /  Z +39.75 m",
+      "dx": 140000,
+      "dy": 0
+    },
+    {
+      "title": "P-03  LEVEL L02  /  Z +43.75 m",
+      "dx": 280000,
+      "dy": 0
+    },
+    {
+      "title": "P-04  LEVEL L03  /  Z +47.75 m",
+      "dx": 0,
+      "dy": -140000
+    },
+    {
+      "title": "P-05  LEVEL L04  /  Z +51.75 m",
+      "dx": 140000,
+      "dy": -140000
+    },
+    {
+      "title": "P-06  ROOF / TERRACE PLAN",
+      "dx": 280000,
+      "dy": -140000
+    },
+    {
+      "title": "S-01  SECTION A-A",
+      "dx": 0,
+      "dy": -280000
+    },
+    {
+      "title": "S-02  SECTION B-B",
+      "dx": 140000,
+      "dy": -280000
+    },
+    {
+      "title": "S-03  SECTION C-C",
+      "dx": 280000,
+      "dy": -280000
+    },
+    {
+      "title": "E-01  FRONT MASS ELEVATION",
+      "dx": 0,
+      "dy": -420000
+    },
+    {
+      "title": "E-02  RIGHT MASS ELEVATION",
+      "dx": 140000,
+      "dy": -420000
+    }
+  ],
+  "levels": [
+    {
+      "z": 35.75,
+      "cut_z": 36.95,
+      "cut_polygon_area": {
+        "POST": 872.0000000000002,
+        "LAB": 0.0
+      }
+    },
+    {
+      "z": 39.75,
+      "cut_z": 40.95,
+      "cut_polygon_area": {
+        "POST": 1043.9999999999934,
+        "LAB": 668.0000000000077
+      }
+    },
+    {
+      "z": 43.75,
+      "cut_z": 44.95,
+      "cut_polygon_area": {
+        "POST": 604.0000000000023,
+        "LAB": 635.9999999999966
+      }
+    },
+    {
+      "z": 47.75,
+      "cut_z": 48.95,
+      "cut_polygon_area": {
+        "POST": 0.0,
+        "LAB": 719.9999999999987
+      }
+    },
+    {
+      "z": 51.75,
+      "cut_z": 52.95,
+      "cut_polygon_area": {
+        "POST": 0.0,
+        "LAB": 307.99999999999915
+      }
+    }
+  ],
+  "units": "mm",
+  "drawing_type": "concept mass cuts, not detailed floor plans"
+}

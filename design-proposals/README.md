@@ -2,6 +2,8 @@
 
 ## 최신 형태 확인안: R — 이미지의 두 매스를 새로 구성
 
+[R안 평면·단면·입면 DWG](R-drawings/R_mass_drawings.dwg?raw=true) · [도면 구성과 기준](R-drawings/README.md)
+
 [매스 전용 Rhino 파일](R-reference-form/R_reference_mass_only.3dm?raw=true) · [기존 대지와 함께 보기](R-reference-form/R_reference_with_site.3dm?raw=true)
 
 파랑은 우체국, 붉은 갈색은 창작소입니다. 객체 색상과 재질에 직접 지정했습니다. 앞쪽 우체국의 높은 전면 몸체와 얕은 옥상 단차, 왼쪽 낮은 돌아가는 날개, 오른쪽 낮은 연결부, 뒤쪽 창작소의 ㄷ자 날개와 높은 오른쪽 덩어리를 새로 구성했습니다. 중앙의 노란 공공 계단과 참을 유지하고, 창작소 입구는 뒤쪽 매스 내부를 통과합니다. 우체국 상부의 계단형 외피는 하나의 닫힌 Extrusion이며 별도 바닥·천장 중복 객체가 아닙니다. 매스 전용 파일에는 주변 지형이 없으며 같은 원점의 대지 포함 파일도 제공합니다. 저장된 뷰 이름은 `R_REFERENCE_BLUE_POST_RED_LAB`입니다.

@@ -1,0 +1,10 @@
+{
+  "format": "DWG R2000 / AC1015",
+  "units": "mm",
+  "views": 11,
+  "entities": 608,
+  "geometry_text_layer_roundtrip": "PASS",
+  "layer_colours_linetypes_lineweights": "PASS",
+  "audit_errors": 0,
+  "source_sha256": "28509b9069c42892f12a2c61fdb919fa0e9c90c3a47dee31008615dc62334927"
+}
