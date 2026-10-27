@@ -1,6 +1,12 @@
 # 매스 제안 자료
 
-## 최신 수정안: N — 철도·도로 측 높이 방향 조정
+## 최신 수정안: O — 창작소 내부를 관통하는 공공 가로
+
+[Rhino 매스 파일](O-internal-creative-street/O_internal_creative_street.3dm?raw=true)
+
+창작소 프로그램 사이로 3m 폭의 경사길이 내려가며 중앙 반외부 홀, Exchange Hub와 우체국 로비로 연결됩니다. 상층 프로그램이 진입과 길을 덮고 중앙 갤러리를 확장했습니다. 기존 도로 높이와 지상 8,200㎡ 프로그램 총량 유지, 코어 제외. 사용자 요청에 따라 매스 파일만 제공합니다.
+
+## 이전 수정안: N — 철도·도로 측 높이 방향 조정
 
 [설명·면적표](N-opposing-heights/README.md) · [Rhino 통합 모델](N-opposing-heights/N_public_street_context.3dm?raw=true) · [전체 ZIP](N-opposing-heights/N_mass_package.zip?raw=true)
 
