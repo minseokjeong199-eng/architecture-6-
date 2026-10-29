@@ -1,0 +1,19 @@
+{
+  "site_area_m2": 4445.638452970317,
+  "building_projection_m2": 2101.9999999999995,
+  "coverage_percent": 47.282297520068575,
+  "modeled_floor_area_m2": 6260.0,
+  "far_all_included_percent": 140.81217054026135,
+  "new_lab_bottom_m2": 1204.0,
+  "far_if_new_bottom_excluded_percent": 113.72944636606412,
+  "floor_area_by_z": {
+    "35.75": 1620.0,
+    "39.75": 2092.0,
+    "41.75": 28.000000000000025,
+    "43.75": 1324.0,
+    "47.75": 580.0,
+    "51.75": 399.9999999999999,
+    "55.75": 215.99999999999997
+  },
+  "basis": "Model estimate: projected rooms+roofs; rooms+roofed public floor unions; outdoor floors/voids excluded. Interior stair plan counted within public hall floor. Not a legal ground-level/basement or FAR ruling."
+}
