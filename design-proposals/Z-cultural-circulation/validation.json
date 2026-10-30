@@ -1,0 +1,17 @@
+{
+  "modelspace_entities": 2506,
+  "types": {
+    "LWPOLYLINE": 2151,
+    "MTEXT": 355
+  },
+  "units": "mm",
+  "layouts": [
+    "Model",
+    "Layout1"
+  ],
+  "hatches": 0,
+  "roundtrip_geometry_and_korean_text": "exact at 0.0001 mm numeric tolerance",
+  "core_alignment": "passed",
+  "audit_errors": 0,
+  "native_AutoCAD_test": false
+}

@@ -1,0 +1,1004 @@
+{
+  "extracted_3d_objects": 311,
+  "floors": [
+    {
+      "level": "L0",
+      "z": 35.75,
+      "cores": [
+        {
+          "code": "L-S1",
+          "bounds": [
+            -9.5,
+            6.4,
+            -2.5,
+            10.6
+          ],
+          "kind": "STAIR_H"
+        },
+        {
+          "code": "L-S2",
+          "bounds": [
+            8.5,
+            12.4,
+            12.5,
+            18.4
+          ],
+          "kind": "STAIR_V"
+        },
+        {
+          "code": "L-EV",
+          "bounds": [
+            13.0,
+            12.4,
+            15.4,
+            14.8
+          ],
+          "kind": "LIFT"
+        },
+        {
+          "code": "L-WU",
+          "bounds": [
+            15.4,
+            16.0,
+            17.9,
+            19.0
+          ],
+          "kind": "WC"
+        },
+        {
+          "code": "L-EPS",
+          "bounds": [
+            16.0,
+            14.0,
+            16.9,
+            15.6
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "L-PS",
+          "bounds": [
+            16.9,
+            14.0,
+            17.8,
+            15.6
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "L-WM",
+          "bounds": [
+            -11.5,
+            23.0,
+            -8.5,
+            28.0
+          ],
+          "kind": "WC"
+        },
+        {
+          "code": "L-WF",
+          "bounds": [
+            -8.5,
+            23.0,
+            -5.5,
+            28.0
+          ],
+          "kind": "WC"
+        },
+        {
+          "code": "L-TPS",
+          "bounds": [
+            -5.5,
+            26.0,
+            -4.3,
+            27.2
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "L-PS2",
+          "bounds": [
+            -5.5,
+            27.2,
+            -4.3,
+            28.4
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "L-FL",
+          "bounds": [
+            9.0,
+            27.0,
+            12.0,
+            30.0
+          ],
+          "kind": "LIFT"
+        },
+        {
+          "code": "P-PEV",
+          "bounds": [
+            10.8,
+            50.5,
+            13.6,
+            53.3
+          ],
+          "kind": "LIFT"
+        },
+        {
+          "code": "P-FL",
+          "bounds": [
+            -12.5,
+            51.0,
+            -9.5,
+            54.0
+          ],
+          "kind": "LIFT"
+        },
+        {
+          "code": "P-S1",
+          "bounds": [
+            -11.0,
+            61.5,
+            -4.0,
+            65.7
+          ],
+          "kind": "STAIR_H"
+        },
+        {
+          "code": "P-S2",
+          "bounds": [
+            4.0,
+            67.5,
+            11.0,
+            71.7
+          ],
+          "kind": "STAIR_H"
+        },
+        {
+          "code": "P-EV",
+          "bounds": [
+            -2.6,
+            61.8,
+            -0.2,
+            64.2
+          ],
+          "kind": "LIFT"
+        },
+        {
+          "code": "P-WM",
+          "bounds": [
+            -2.5,
+            68.0,
+            0.0,
+            72.0
+          ],
+          "kind": "WC"
+        },
+        {
+          "code": "P-WF",
+          "bounds": [
+            0.0,
+            68.0,
+            2.5,
+            72.0
+          ],
+          "kind": "WC"
+        },
+        {
+          "code": "P-WU",
+          "bounds": [
+            -2.5,
+            65.0,
+            0.0,
+            67.5
+          ],
+          "kind": "WC"
+        },
+        {
+          "code": "P-EPS",
+          "bounds": [
+            0.0,
+            65.0,
+            1.2,
+            66.4
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "P-PS",
+          "bounds": [
+            0.0,
+            66.4,
+            1.2,
+            67.5
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "P-TPS",
+          "bounds": [
+            1.2,
+            65.0,
+            2.4,
+            66.4
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "P-JAN",
+          "bounds": [
+            1.2,
+            66.4,
+            2.4,
+            67.5
+          ],
+          "kind": "SERVICE"
+        }
+      ],
+      "zones": 40,
+      "shift": [
+        0,
+        0
+      ]
+    },
+    {
+      "level": "L1",
+      "z": 39.75,
+      "cores": [
+        {
+          "code": "L-S1",
+          "bounds": [
+            -9.5,
+            6.4,
+            -2.5,
+            10.6
+          ],
+          "kind": "STAIR_H"
+        },
+        {
+          "code": "L-S2",
+          "bounds": [
+            8.5,
+            12.4,
+            12.5,
+            18.4
+          ],
+          "kind": "STAIR_V"
+        },
+        {
+          "code": "L-EV",
+          "bounds": [
+            13.0,
+            12.4,
+            15.4,
+            14.8
+          ],
+          "kind": "LIFT"
+        },
+        {
+          "code": "L-WU",
+          "bounds": [
+            15.4,
+            16.0,
+            17.9,
+            19.0
+          ],
+          "kind": "WC"
+        },
+        {
+          "code": "L-EPS",
+          "bounds": [
+            16.0,
+            14.0,
+            16.9,
+            15.6
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "L-PS",
+          "bounds": [
+            16.9,
+            14.0,
+            17.8,
+            15.6
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "L-WM",
+          "bounds": [
+            -11.5,
+            23.0,
+            -8.5,
+            28.0
+          ],
+          "kind": "WC"
+        },
+        {
+          "code": "L-WF",
+          "bounds": [
+            -8.5,
+            23.0,
+            -5.5,
+            28.0
+          ],
+          "kind": "WC"
+        },
+        {
+          "code": "L-TPS",
+          "bounds": [
+            -5.5,
+            26.0,
+            -4.3,
+            27.2
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "L-PS2",
+          "bounds": [
+            -5.5,
+            27.2,
+            -4.3,
+            28.4
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "L-FL",
+          "bounds": [
+            9.0,
+            27.0,
+            12.0,
+            30.0
+          ],
+          "kind": "LIFT"
+        },
+        {
+          "code": "P-PEV",
+          "bounds": [
+            10.8,
+            50.5,
+            13.6,
+            53.3
+          ],
+          "kind": "LIFT"
+        },
+        {
+          "code": "P-FL",
+          "bounds": [
+            -12.5,
+            51.0,
+            -9.5,
+            54.0
+          ],
+          "kind": "LIFT"
+        },
+        {
+          "code": "P-S1",
+          "bounds": [
+            -11.0,
+            61.5,
+            -4.0,
+            65.7
+          ],
+          "kind": "STAIR_H"
+        },
+        {
+          "code": "P-S2",
+          "bounds": [
+            4.0,
+            67.5,
+            11.0,
+            71.7
+          ],
+          "kind": "STAIR_H"
+        },
+        {
+          "code": "P-EV",
+          "bounds": [
+            -2.6,
+            61.8,
+            -0.2,
+            64.2
+          ],
+          "kind": "LIFT"
+        },
+        {
+          "code": "P-WM",
+          "bounds": [
+            -2.5,
+            68.0,
+            0.0,
+            72.0
+          ],
+          "kind": "WC"
+        },
+        {
+          "code": "P-WF",
+          "bounds": [
+            0.0,
+            68.0,
+            2.5,
+            72.0
+          ],
+          "kind": "WC"
+        },
+        {
+          "code": "P-WU",
+          "bounds": [
+            -2.5,
+            65.0,
+            0.0,
+            67.5
+          ],
+          "kind": "WC"
+        },
+        {
+          "code": "P-EPS",
+          "bounds": [
+            0.0,
+            65.0,
+            1.2,
+            66.4
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "P-PS",
+          "bounds": [
+            0.0,
+            66.4,
+            1.2,
+            67.5
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "P-TPS",
+          "bounds": [
+            1.2,
+            65.0,
+            2.4,
+            66.4
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "P-JAN",
+          "bounds": [
+            1.2,
+            66.4,
+            2.4,
+            67.5
+          ],
+          "kind": "SERVICE"
+        }
+      ],
+      "zones": 24,
+      "shift": [
+        150000,
+        0
+      ]
+    },
+    {
+      "level": "L2",
+      "z": 43.75,
+      "cores": [
+        {
+          "code": "L-S1",
+          "bounds": [
+            -9.5,
+            6.4,
+            -2.5,
+            10.6
+          ],
+          "kind": "STAIR_H"
+        },
+        {
+          "code": "L-S2",
+          "bounds": [
+            8.5,
+            12.4,
+            12.5,
+            18.4
+          ],
+          "kind": "STAIR_V"
+        },
+        {
+          "code": "L-EV",
+          "bounds": [
+            13.0,
+            12.4,
+            15.4,
+            14.8
+          ],
+          "kind": "LIFT"
+        },
+        {
+          "code": "L-WU",
+          "bounds": [
+            15.4,
+            16.0,
+            17.9,
+            19.0
+          ],
+          "kind": "WC"
+        },
+        {
+          "code": "L-EPS",
+          "bounds": [
+            16.0,
+            14.0,
+            16.9,
+            15.6
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "L-PS",
+          "bounds": [
+            16.9,
+            14.0,
+            17.8,
+            15.6
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "L-WM",
+          "bounds": [
+            -11.5,
+            23.0,
+            -8.5,
+            28.0
+          ],
+          "kind": "WC"
+        },
+        {
+          "code": "L-WF",
+          "bounds": [
+            -8.5,
+            23.0,
+            -5.5,
+            28.0
+          ],
+          "kind": "WC"
+        },
+        {
+          "code": "L-TPS",
+          "bounds": [
+            -5.5,
+            26.0,
+            -4.3,
+            27.2
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "L-PS2",
+          "bounds": [
+            -5.5,
+            27.2,
+            -4.3,
+            28.4
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "L-FL",
+          "bounds": [
+            9.0,
+            27.0,
+            12.0,
+            30.0
+          ],
+          "kind": "LIFT"
+        },
+        {
+          "code": "P-PEV",
+          "bounds": [
+            10.8,
+            50.5,
+            13.6,
+            53.3
+          ],
+          "kind": "LIFT"
+        },
+        {
+          "code": "P-FL",
+          "bounds": [
+            -12.5,
+            51.0,
+            -9.5,
+            54.0
+          ],
+          "kind": "LIFT"
+        },
+        {
+          "code": "P-S1",
+          "bounds": [
+            -11.0,
+            61.5,
+            -4.0,
+            65.7
+          ],
+          "kind": "STAIR_H"
+        },
+        {
+          "code": "P-S2",
+          "bounds": [
+            4.0,
+            67.5,
+            11.0,
+            71.7
+          ],
+          "kind": "STAIR_H"
+        },
+        {
+          "code": "P-EV",
+          "bounds": [
+            -2.6,
+            61.8,
+            -0.2,
+            64.2
+          ],
+          "kind": "LIFT"
+        },
+        {
+          "code": "P-WM",
+          "bounds": [
+            -2.5,
+            68.0,
+            0.0,
+            72.0
+          ],
+          "kind": "WC"
+        },
+        {
+          "code": "P-WF",
+          "bounds": [
+            0.0,
+            68.0,
+            2.5,
+            72.0
+          ],
+          "kind": "WC"
+        },
+        {
+          "code": "P-WU",
+          "bounds": [
+            -2.5,
+            65.0,
+            0.0,
+            67.5
+          ],
+          "kind": "WC"
+        },
+        {
+          "code": "P-EPS",
+          "bounds": [
+            0.0,
+            65.0,
+            1.2,
+            66.4
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "P-PS",
+          "bounds": [
+            0.0,
+            66.4,
+            1.2,
+            67.5
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "P-TPS",
+          "bounds": [
+            1.2,
+            65.0,
+            2.4,
+            66.4
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "P-JAN",
+          "bounds": [
+            1.2,
+            66.4,
+            2.4,
+            67.5
+          ],
+          "kind": "SERVICE"
+        }
+      ],
+      "zones": 16,
+      "shift": [
+        300000,
+        0
+      ]
+    },
+    {
+      "level": "L3",
+      "z": 47.75,
+      "cores": [
+        {
+          "code": "L-S1",
+          "bounds": [
+            -9.5,
+            6.4,
+            -2.5,
+            10.6
+          ],
+          "kind": "STAIR_H"
+        },
+        {
+          "code": "L-S2",
+          "bounds": [
+            8.5,
+            12.4,
+            12.5,
+            18.4
+          ],
+          "kind": "STAIR_V"
+        },
+        {
+          "code": "L-EV",
+          "bounds": [
+            13.0,
+            12.4,
+            15.4,
+            14.8
+          ],
+          "kind": "LIFT"
+        },
+        {
+          "code": "L-WU",
+          "bounds": [
+            15.4,
+            16.0,
+            17.9,
+            19.0
+          ],
+          "kind": "WC"
+        },
+        {
+          "code": "L-EPS",
+          "bounds": [
+            16.0,
+            14.0,
+            16.9,
+            15.6
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "L-PS",
+          "bounds": [
+            16.9,
+            14.0,
+            17.8,
+            15.6
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "L-WM",
+          "bounds": [
+            -11.5,
+            23.0,
+            -8.5,
+            28.0
+          ],
+          "kind": "WC"
+        },
+        {
+          "code": "L-WF",
+          "bounds": [
+            -8.5,
+            23.0,
+            -5.5,
+            28.0
+          ],
+          "kind": "WC"
+        },
+        {
+          "code": "L-TPS",
+          "bounds": [
+            -5.5,
+            26.0,
+            -4.3,
+            27.2
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "L-PS2",
+          "bounds": [
+            -5.5,
+            27.2,
+            -4.3,
+            28.4
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "L-FL",
+          "bounds": [
+            9.0,
+            27.0,
+            12.0,
+            30.0
+          ],
+          "kind": "LIFT"
+        }
+      ],
+      "zones": 7,
+      "shift": [
+        0,
+        -170000
+      ]
+    },
+    {
+      "level": "L4",
+      "z": 51.75,
+      "cores": [
+        {
+          "code": "L-S1",
+          "bounds": [
+            -9.5,
+            6.4,
+            -2.5,
+            10.6
+          ],
+          "kind": "STAIR_H"
+        },
+        {
+          "code": "L-S2",
+          "bounds": [
+            8.5,
+            12.4,
+            12.5,
+            18.4
+          ],
+          "kind": "STAIR_V"
+        },
+        {
+          "code": "L-EV",
+          "bounds": [
+            13.0,
+            12.4,
+            15.4,
+            14.8
+          ],
+          "kind": "LIFT"
+        },
+        {
+          "code": "L-WU",
+          "bounds": [
+            15.4,
+            16.0,
+            17.9,
+            19.0
+          ],
+          "kind": "WC"
+        },
+        {
+          "code": "L-EPS",
+          "bounds": [
+            16.0,
+            14.0,
+            16.9,
+            15.6
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "L-PS",
+          "bounds": [
+            16.9,
+            14.0,
+            17.8,
+            15.6
+          ],
+          "kind": "SHAFT"
+        }
+      ],
+      "zones": 3,
+      "shift": [
+        150000,
+        -170000
+      ]
+    },
+    {
+      "level": "L5",
+      "z": 55.75,
+      "cores": [
+        {
+          "code": "L-S1",
+          "bounds": [
+            -9.5,
+            6.4,
+            -2.5,
+            10.6
+          ],
+          "kind": "STAIR_H"
+        },
+        {
+          "code": "L-S2",
+          "bounds": [
+            8.5,
+            12.4,
+            12.5,
+            18.4
+          ],
+          "kind": "STAIR_V"
+        },
+        {
+          "code": "L-EV",
+          "bounds": [
+            13.0,
+            12.4,
+            15.4,
+            14.8
+          ],
+          "kind": "LIFT"
+        },
+        {
+          "code": "L-WU",
+          "bounds": [
+            15.4,
+            16.0,
+            17.9,
+            19.0
+          ],
+          "kind": "WC"
+        },
+        {
+          "code": "L-EPS",
+          "bounds": [
+            16.0,
+            14.0,
+            16.9,
+            15.6
+          ],
+          "kind": "SHAFT"
+        },
+        {
+          "code": "L-PS",
+          "bounds": [
+            16.9,
+            14.0,
+            17.8,
+            15.6
+          ],
+          "kind": "SHAFT"
+        }
+      ],
+      "zones": 4,
+      "shift": [
+        300000,
+        -170000
+      ]
+    },
+    {
+      "level": "M",
+      "z": 41.75,
+      "cores": [],
+      "zones": 0,
+      "shift": [
+        0,
+        -340000
+      ]
+    }
+  ],
+  "reference_registration": 2.7077904183429776e-10,
+  "entity_count": 2506,
+  "hatch_count": 0
+}
